@@ -60,5 +60,5 @@ MIT — see [LICENSE](LICENSE)
 
 ## 🔗 Links
 
-- Author Portfolio: [노션 링크 박기]
+- Author Portfolio: https://app.notion.com/p/Portfolio-377742607f3c811fb73ce8226a96ae64?source=copy_link
 - RisuAI: https://github.com/kwaroran/Risuai
